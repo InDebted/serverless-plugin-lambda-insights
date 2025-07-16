@@ -9,5 +9,6 @@
 	"eu-central-1": "arn:aws:lambda:eu-central-1:580247275435:layer:LambdaInsightsExtension-Arm64:2",
 	"eu-west-1": "arn:aws:lambda:eu-west-1:580247275435:layer:LambdaInsightsExtension-Arm64:2",
 	"eu-west-2": "arn:aws:lambda:eu-west-2:580247275435:layer:LambdaInsightsExtension-Arm64:2",
-  "me-central-1": "arn:aws:lambda:me-central-1:732604637566:layer:LambdaInsightsExtension:27"
+	"me-central-1": "arn:aws:lambda:me-central-1:732604637566:layer:LambdaInsightsExtension:27",
+	"sa-east-1": "arn:aws:lambda:sa-east-1:580247275435:layer:LambdaInsightsExtension-Arm64:21"
 }
